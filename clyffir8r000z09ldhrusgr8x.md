@@ -4,7 +4,6 @@ datePublished: Wed Jul 10 2024 05:58:27 GMT+0000 (Coordinated Universal Time)
 cuid: clyffir8r000z09ldhrusgr8x
 slug: 10-load-balancing-techniques-mastering-the-art-of-distributed-computing-cea946ac5cdb
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720590531107/65bf419e-cb01-4802-a623-b119d7d36aed.png
-tags: system-architecture, system-design, load-balancer, load-balancing
 
 ---
 
